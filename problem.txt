@@ -1,0 +1,6 @@
+Build a REST API with Express.js to manage a collection of books. The API should support the following CRUD operations:
+
+GET /books: Retrieve a list of all books.
+POST /books: Add a new book with a title and author (both required).
+PUT /books/:id: Update a book’s status to "read" or "unread" (status must be provided).
+DELETE /books/:id: Remove a book by its ID.
